@@ -2,8 +2,10 @@ https://AndreyTym.github.io/rsschool-cv/cv
 
 # Andrii Tymoshenko
 ## Contacts
-mobile: +380972665165
-email: andrey.tymoshenko@gmail.com
+**mobile:** +380972665165
+
+
+**email:** andrey.tymoshenko@gmail.com
 ## Summary
 I started learning HTML and CSS with **RS School.**
 I found it exciting and challenging.
