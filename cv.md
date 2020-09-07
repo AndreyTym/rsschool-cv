@@ -1,4 +1,4 @@
-
+![Image of AT](https://github.com/AndreyTym/rsschool-cv/blob/gh-pages/photo%201.jpg)
 # Andrii Tymoshenko
 ## Contacts
 **mobile:** +380972665165
